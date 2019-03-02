@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TimePicker</string>
+    <string name="enter_note">Enter note</string>
+    <string name="add">Add</string>
+    <string name="new_alarm">New Alarm</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+</resources>
